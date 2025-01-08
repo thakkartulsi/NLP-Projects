@@ -1,0 +1,9 @@
+tensorflow
+streamlit
+langdetect
+pyaudio
+SpeechRecognition
+pyttsx3
+nltk
+googletrans==4.0.0-rc1
+gTTS
