@@ -9,9 +9,9 @@ A multilingual translator application built with Streamlit for text translation,
 
 3. **Speech Integration:**
 
-  **Speech-to-Text:** Converts spoken input into text
+     **Speech-to-Text:** Converts spoken input into text
   
-  **Text-to-Speech:** Converts translated text back into speech for playback
+     **Text-to-Speech:** Converts translated text back into speech for playback
 
 4. **Streamlit User Interface:** Easy-to-use web interface with text input, language selection, and interactive buttons
 
