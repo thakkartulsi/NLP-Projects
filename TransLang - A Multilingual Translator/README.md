@@ -1,4 +1,5 @@
 **TransLang**
+
 A multilingual translator application built with Streamlit for text translation, language detection, and speech integration.
 
 **Key Features**
