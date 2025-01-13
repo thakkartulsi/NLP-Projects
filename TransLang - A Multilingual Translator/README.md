@@ -2,6 +2,8 @@
 
 A multilingual translator application built with Streamlit for text translation, language detection, and speech integration.
 
+![demo_img](https://github.com/user-attachments/assets/f21c606f-639d-4c50-b242-cf002dc3e1cf)
+
 **Key Features**
 
 1. **Language Detection:** Detects the language of the input text 
