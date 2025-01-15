@@ -23,7 +23,11 @@ This project leverages modern NLP techniques to build and evaluate an NER system
 ## Directory Structure
 
 ├── templates
+
 │   └── index.html         # HTML file for the web interface
+
 ├── app.py                 # Flask application
+
 ├── requirements.txt       # Python dependencies
+
 ├── README.md              # Project documentation
